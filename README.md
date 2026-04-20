@@ -22,20 +22,15 @@ El proyecto sigue una organización de archivos estricta para asegurar la separa
 ```
 ### 🛠️ Tecnologías y Semántica Usada
 
-## HTML5 (Semántica)
+## Estructura Semántica Aplicada
 Se utilizaron etiquetas semánticas para mejorar la accesibilidad y el SEO, siguiendo los estándares W3C:
 
-* <header>: Encabezado principal con banner y título.
-
-* <main>: Contenedor del contenido principal de la aplicación.
-
-* <article>: Bloque autónomo que contiene el formulario de registro.
-
-* <fieldset> y <legend>: Agrupación lógica de campos relacionados (ej: Género).
-
-* <aside>: Sección de ayuda y soporte ubicada al final de la página.
-
-* <label> e <input>: Vinculación correcta para accesibilidad.
+* **`<header>`**: Encabezado principal con banner y título.
+* **`<main>`**: Contenedor del contenido principal de la aplicación.
+* **`<article>`**: Bloque autónomo que contiene el formulario de registro.
+* **`<fieldset>` y `<legend>`**: Agrupación lógica de campos relacionados (ej: Género).
+* **`<aside>`**: Sección de ayuda y soporte ubicada al final de la página.
+* **`<label>` e `<input>`**: Vinculación correcta para asegurar la accesibilidad.
 
 ## CSS3 (Diseño)
 El diseño se centra en el CSS Box Model:
