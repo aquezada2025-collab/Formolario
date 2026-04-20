@@ -35,32 +35,25 @@ Se utilizaron etiquetas semánticas para mejorar la accesibilidad y el SEO, sigu
 ## CSS3 (Diseño)
 El diseño se centra en el CSS Box Model:
 
-Padding: Espaciado interno en inputs y contenedores para legibilidad.
+* Padding: Espaciado interno en inputs y contenedores para legibilidad.
 
-Margin: Separación entre secciones y elementos del formulario.
+* Margin: Separación entre secciones y elementos del formulario.
 
-Border: Definición visual de campos y secciones.
+* Border: Definición visual de campos y secciones.
 
-Flexbox: Utilizado en .layout-principal para organizar el flujo vertical del formulario y la ayuda.
+* Flexbox: Utilizado en .layout-principal para organizar el flujo vertical del formulario y la ayuda.
 
-JavaScript (Interacción)
+##JavaScript (Interacción)
 Se implementó lógica dinámica para mejorar la experiencia del usuario:
 
-Selección de elementos mediante document.getElementById y document.querySelector.
+* Selección de elementos mediante document.getElementById y document.querySelector.
 
-Uso de addEventListener para capturar el evento submit.
+* Uso de addEventListener para capturar el evento submit.
 
-Empleo de event.preventDefault() para gestionar el envío sin recargar la página.
+* Empleo de event.preventDefault() para gestionar el envío sin recargar la página.
 
-Manipulación del DOM para cambiar el color y texto del título tras el éxito.
+* Manipulación del DOM para cambiar el color y texto del título tras el éxito.
 
-Uso de form.reset() para limpiar los campos automáticamente.
+* Uso de form.reset() para limpiar los campos automáticamente.
 
-🚀 Instrucciones de Uso
-Clona este repositorio o descarga los archivos.
 
-Asegúrate de mantener la estructura de carpetas assets/css, assets/js y assets/img.
-
-Abre el archivo index.html en cualquier navegador moderno.
-
-Completa los 7 campos obligatorios del formulario.
