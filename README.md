@@ -43,7 +43,7 @@ El diseño se centra en el CSS Box Model:
 
 * Flexbox: Utilizado en .layout-principal para organizar el flujo vertical del formulario y la ayuda.
 
-##JavaScript (Interacción)
+## JavaScript (Interacción)
 Se implementó lógica dinámica para mejorar la experiencia del usuario:
 
 * Selección de elementos mediante document.getElementById y document.querySelector.
